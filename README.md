@@ -1,6 +1,6 @@
 # MAD Projects (Java)
 
-This repository contains a collection of Java projects developed as part of the "MAD" (Mobile Application Development / Miscellaneous Application Development) series. Each project is self-contained and demonstrates different concepts, techniques, or assignments in Java programming.
+This repository contains a collection of Java projects developed as part of the "MAD" (Mobile Application Development ) series. Each project is self-contained and demonstrates different concepts, techniques, or assignments in Java programming.
 
 ## Getting Started
 
